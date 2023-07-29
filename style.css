@@ -1,0 +1,39 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: lightcyan;
+}
+
+.container {
+  text-align: left;
+  top: 50px;
+  left: 30px;
+}
+
+h1 {
+  color: teal;
+}
+
+li {
+  color: rgb(25, 100, 89);
+  list-style: none;
+}
+h2 {
+  color: cornflowerblue;
+}
+.row {
+  position: relative;
+  top: 0;
+  right: 0;
+  text-align: left;
+  color: rgb(25, 100, 89);
+}
+.weather {
+  border: 1px solid;
+  padding: 10px;
+}
+footer {
+  color: cadetblue;
+  position: fixed;
+  text-align: center;
+  bottom: 80px;
+}
